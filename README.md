@@ -12,7 +12,7 @@ I build systems where **models don’t just predict — they act**. My work expl
 * 🤝 Contributing to the open-source AI ecosystem focused on autonomy and trust
 
 ## 🌐 Connect with me
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://lounesallioui.fr)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://lounesallioui.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lounes-allioui)
 
 ---
